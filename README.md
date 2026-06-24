@@ -1,4 +1,4 @@
-# Lead Capture & Booking — Demo
+# Lead Capture & Booking Demo
 
 A small, working booking/lead-capture tool: a public form for customers, and a
 simple dashboard for the business owner to see and manage incoming requests.
@@ -43,7 +43,7 @@ Built with React + Vite + Tailwind + Supabase, deployable to Vercel in minutes.
 ## A note on npm security
 
 This project includes an `.npmrc` that disables auto-running install scripts
-and refuses packages published in the last 7 days — two of the main ways
+and refuses packages published in the last 7 days two of the main ways
 npm supply-chain malware spreads in 2026. After installing, it's also worth
 running:
 
