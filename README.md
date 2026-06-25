@@ -54,7 +54,6 @@ npm audit
 to check for known vulnerabilities in whatever got installed. None of this
 makes installing packages risk-free, but it meaningfully lowers it.
 
-## Worth mentioning in a pitch
 
 - Row Level Security is already configured: anyone can submit the public
   form, but only a signed-in owner can see or manage leads. That's basic
